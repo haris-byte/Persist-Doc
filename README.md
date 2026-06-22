@@ -44,24 +44,14 @@ The project was built in **React Native / Expo** with Firebase services, and a F
 
 Create this folder in the repo:
 
-```text
-docs/images/
-```
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a7922819-bb0c-4ef7-9da3-0a78c2aecb51" />
 
-Add screenshots with these exact names:
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3daa7e27-5481-43f8-befe-6ab97c2a47dc" />
 
-```text
-docs/images/01-auth.png
-docs/images/02-onboarding.png
-docs/images/03-goal-creation.png
-docs/images/04-ai-plan-preview.png
-docs/images/05-task-session.png
-docs/images/06-mood-log.png
-docs/images/07-insights-report.png
-docs/images/08-friends-settings.png
-```
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/10a9423b-ca25-40ce-87bf-d6fc2f856124" />
 
-Then uncomment or keep the image section below after the images are added:
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4b0ceb82-a07b-4399-afb6-f00324c2ed91" />
+
 
 | Auth / Signup | Onboarding |
 |---|---|
@@ -79,87 +69,7 @@ Then uncomment or keep the image section below after the images are added:
 |---|---|
 | ![Insights](docs/images/07-insights-report.png) | ![Friends Settings](docs/images/08-friends-settings.png) |
 
----
-
-## Suggested Demo Flow
-
-1. Open the app and sign in.
-2. Complete onboarding.
-3. Create a goal.
-4. Generate an AI-assisted daily plan.
-5. Start a daily task session.
-6. Complete a task and log mood.
-7. View progress insights and stability score.
-8. View friend/progress or settings screens.
-
----
-
-## AI and Scoring Note
-
-Persist uses an LLM API for AI-assisted goal planning and daily task suggestions. Skip-risk probability and stability score are app-level behavioral indicators based on progress, mood, and completion patterns. They are not medical, clinical, or psychological diagnosis tools.
-
----
-
-## Repository Safety Recommendation
-
-If you do not want the code or idea copied, do **not** publish the full source code publicly.
-
-Recommended approach:
-
-- Keep the full source code in a **private repository**.
-- Create a **public showcase repository** with this README, screenshots, architecture notes, and a demo video.
-- Add this line to the public README:
 
 ```text
 Source code is private. Access may be shared with recruiters or evaluators on request.
 ```
-
-Before making any repository public, remove:
-
-- `.env` files
-- API keys
-- Firebase config values
-- test accounts
-- personal screenshots/data
-- unused files
-- build artifacts
-- `node_modules`
-- incomplete or broken code
-
----
-
-## Public Repo Option
-
-If this is only a portfolio showcase, use this structure:
-
-```text
-persist-showcase/
-├── README.md
-├── docs/
-│   ├── images/
-│   │   ├── 01-auth.png
-│   │   ├── 02-onboarding.png
-│   │   ├── 03-goal-creation.png
-│   │   ├── 04-ai-plan-preview.png
-│   │   ├── 05-task-session.png
-│   │   ├── 06-mood-log.png
-│   │   ├── 07-insights-report.png
-│   │   └── 08-friends-settings.png
-│   └── Persist-App-Project-Showcase.pdf
-└── LICENSE.md
-```
-
-Use a restrictive `LICENSE.md` if you publish documentation only:
-
-```text
-Copyright (c) 2026 Muhammad Haris Ali.
-All rights reserved.
-This repository is shared for portfolio and evaluation purposes only.
-No permission is granted to copy, modify, redistribute, or commercially use the project, design, documentation, or screenshots without written permission.
-```
-
----
-
-## LinkedIn Media Description
-
-React Native / Flutter mobile app with Firebase Auth, Firestore, API-based AI-assisted goal planning, daily task generation, skip-risk probability, stability score, mood logging, insights, reflection flow, and friend progress features.
