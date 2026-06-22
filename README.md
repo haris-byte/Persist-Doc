@@ -44,31 +44,13 @@ The project was built in **React Native / Expo** with Firebase services, and a F
 
 Create this folder in the repo:
 
-<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/a7922819-bb0c-4ef7-9da3-0a78c2aecb51" />
+<img width="150" height="320" alt="image" src="https://github.com/user-attachments/assets/a7922819-bb0c-4ef7-9da3-0a78c2aecb51" />
 
-<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/3daa7e27-5481-43f8-befe-6ab97c2a47dc" />
+<img width="150" height="320" alt="image" src="https://github.com/user-attachments/assets/3daa7e27-5481-43f8-befe-6ab97c2a47dc" />
 
-<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/10a9423b-ca25-40ce-87bf-d6fc2f856124" />
+<img width="150" height="320" alt="image" src="https://github.com/user-attachments/assets/10a9423b-ca25-40ce-87bf-d6fc2f856124" />
 
-<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/4b0ceb82-a07b-4399-afb6-f00324c2ed91" />
-
-
-| Auth / Signup | Onboarding |
-|---|---|
-| ![Auth](docs/images/01-auth.png) | ![Onboarding](docs/images/02-onboarding.png) |
-
-| Goal Creation | AI Plan Preview |
-|---|---|
-| ![Goal Creation](docs/images/03-goal-creation.png) | ![AI Plan Preview](docs/images/04-ai-plan-preview.png) |
-
-| Task Session | Mood Log |
-|---|---|
-| ![Task Session](docs/images/05-task-session.png) | ![Mood Log](docs/images/06-mood-log.png) |
-
-| Insights / Report | Friends / Settings |
-|---|---|
-| ![Insights](docs/images/07-insights-report.png) | ![Friends Settings](docs/images/08-friends-settings.png) |
-
+<img width="150" height="320" alt="image" src="https://github.com/user-attachments/assets/4b0ceb82-a07b-4399-afb6-f00324c2ed91" />
 
 ```text
 Source code is private. Access may be shared with recruiters or evaluators on request.
