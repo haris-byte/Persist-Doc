@@ -44,13 +44,13 @@ The project was built in **React Native / Expo** with Firebase services, and a F
 
 Create this folder in the repo:
 
-<img width="580" height="1024" alt="image" src="https://github.com/user-attachments/assets/a7922819-bb0c-4ef7-9da3-0a78c2aecb51" />
+<img width="320" height="720" alt="image" src="https://github.com/user-attachments/assets/a7922819-bb0c-4ef7-9da3-0a78c2aecb51" />
 
-<img width="580" height="1024" alt="image" src="https://github.com/user-attachments/assets/3daa7e27-5481-43f8-befe-6ab97c2a47dc" />
+<img width="320" height="720" alt="image" src="https://github.com/user-attachments/assets/3daa7e27-5481-43f8-befe-6ab97c2a47dc" />
 
-<img width="580" height="1024" alt="image" src="https://github.com/user-attachments/assets/10a9423b-ca25-40ce-87bf-d6fc2f856124" />
+<img width="320" height="720" alt="image" src="https://github.com/user-attachments/assets/10a9423b-ca25-40ce-87bf-d6fc2f856124" />
 
-<img width="580" height="1024" alt="image" src="https://github.com/user-attachments/assets/4b0ceb82-a07b-4399-afb6-f00324c2ed91" />
+<img width="320" height="720" alt="image" src="https://github.com/user-attachments/assets/4b0ceb82-a07b-4399-afb6-f00324c2ed91" />
 
 ```text
 Source code is private. Access may be shared with recruiters or evaluators on request.
